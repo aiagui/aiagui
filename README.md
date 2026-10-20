@@ -1,26 +1,24 @@
-<h2 align="center">Aitor Aguilar</h2>
-<p align="center"><i>Autonomous agent systems · Multi-agent review · Dev automation</i></p>
+```console
+$ whoami
+aitor — builds things that build things
 
-<p align="center">
-  <a href="https://x.com/aitoragu"><img src="https://img.shields.io/badge/X-@aitoragu-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
-  <img src="https://img.shields.io/badge/Lisbon-🇵🇹-1f2937?style=flat" alt="Lisbon">
-</p>
+$ cat now.txt
+→ getting AI agents to review each other's code (politely, so far)
+→ wiring MCP servers into anything that stands still long enough
+→ automating the boring parts, then automating the automation
 
----
+$ cat rules.txt
+1. agents propose, humans approve
+2. if it can't explain its own diff, it doesn't merge
+3. every "it worked on my machine" gets a test
 
-I build systems where AI agents write, review and ship code, and a human approves what matters.
+$ tail -n 3 agents.log
+[builder]  PR ready, all tests green ✅
+[reviewer] LGTM 🚀
+[human]    no.
 
-**Currently**
-- Running a small team of specialized agents on [OpenClaw](https://github.com/openclaw): one coordinates, others build and review, nothing ships without approval
-- Building MCP servers and agent tooling
-- Exploring agent memory, recovery from failed runs, and inter-agent code review
+$ uptime
+Lisbon 🇵🇹 · powered by coffee and failed CI runs
+```
 
-**Stack**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-111827?style=flat)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-🦞-b91c1c?style=flat)
-
----
-
-<p align="center"><sub>Notes on what works, what breaks and the weird failure modes in between → <a href="https://x.com/aitoragu">@aitoragu</a></sub></p>
+<sub>More thoughts, fewer failed runs → <a href="https://x.com/aitoragu">@aitoragu</a></sub>
