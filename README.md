@@ -1,24 +1,7 @@
-```console
-$ whoami
-aitor — builds things that build things
+### hey, I'm Aitor 👋
 
-$ cat now.txt
-→ getting AI agents to review each other's code (politely, so far)
-→ wiring MCP servers into anything that stands still long enough
-→ automating the boring parts, then automating the automation
+I build things that build things: AI agents, MCP servers and automations that save me from doing the same task twice.
 
-$ cat rules.txt
-1. agents propose, humans approve
-2. if it can't explain its own diff, it doesn't merge
-3. every "it worked on my machine" gets a test
+Lately: agents that write, review and ship code, with me as the last reviewer standing.
 
-$ tail -n 3 agents.log
-[builder]  PR ready, all tests green ✅
-[reviewer] LGTM 🚀
-[human]    no.
-
-$ uptime
-Lisbon 🇵🇹 · powered by coffee and failed CI runs
-```
-
-<sub>More thoughts, fewer failed runs → <a href="https://x.com/aitoragu">@aitoragu</a></sub>
+📍 Lisbon &nbsp;·&nbsp; 𝕏 [@aitoragu](https://x.com/aitoragu)
