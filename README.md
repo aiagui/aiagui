@@ -1,8 +1,26 @@
-### Hi, I'm Aitor 👋
+<h2 align="center">Aitor Aguilar</h2>
+<p align="center"><i>Autonomous agent systems · Multi-agent review · Dev automation</i></p>
 
-I build autonomous AI agent systems: agents that write, review and ship code, with a human approving what matters.
+<p align="center">
+  <a href="https://x.com/aitoragu"><img src="https://img.shields.io/badge/X-@aitoragu-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
+  <img src="https://img.shields.io/badge/Lisbon-🇵🇹-1f2937?style=flat" alt="Lisbon">
+</p>
 
-- 🦞 Working with [OpenClaw](https://github.com/openclaw) and multi-agent setups
-- 🔌 MCP integrations and agent tooling
+---
 
-Writing about what works, what breaks and the weird failure modes in between on [X @aitoragu](https://x.com/aitoragu).
+I build systems where AI agents write, review and ship code, and a human approves what matters.
+
+**Currently**
+- Running a small team of specialized agents on [OpenClaw](https://github.com/openclaw): one coordinates, others build and review, nothing ships without approval
+- Building MCP servers and agent tooling
+- Exploring agent memory, recovery from failed runs, and inter-agent code review
+
+**Stack**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-111827?style=flat)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-🦞-b91c1c?style=flat)
+
+---
+
+<p align="center"><sub>Notes on what works, what breaks and the weird failure modes in between → <a href="https://x.com/aitoragu">@aitoragu</a></sub></p>
