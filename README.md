@@ -2,6 +2,20 @@
 
 I build things that build things: AI agents, MCP servers and automations that save me from doing the same task twice.
 
+<p align="center">
+  <a href="https://github.com/aiagui/Blastradius">
+    <img src="https://raw.githubusercontent.com/aiagui/Blastradius/main/docs/assets/demo.gif" width="640" alt="blastradius running in a terminal against fake keys with --offline, showing one red, two amber and one green result">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node-22%2B-339933?style=flat&logo=node.js&logoColor=white" alt="Node 22+">
+  <img src="https://img.shields.io/badge/MIT-blue?style=flat" alt="MIT">
+  <a href="https://github.com/aiagui/Blastradius"><img src="https://img.shields.io/badge/Blastradius-111827?style=flat" alt="Blastradius"></a>
+  <a href="https://github.com/aiagui/linpine"><img src="https://img.shields.io/badge/linpine-111827?style=flat" alt="linpine"></a>
+</p>
+
 Lately: agents that write, review and ship code, with me as the last reviewer standing.
 
 ## Projects
