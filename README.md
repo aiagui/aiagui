@@ -3,9 +3,7 @@
 I build things that build things: AI agents, MCP servers and automations that save me from doing the same task twice.
 
 <p align="center">
-  <a href="https://github.com/aiagui/Blastradius">
-    <img src="https://raw.githubusercontent.com/aiagui/Blastradius/main/docs/assets/demo.gif" width="640" alt="blastradius running in a terminal against fake keys with --offline, showing one red, two amber and one green result">
-  </a>
+  <img src="assets/profile-mario-projects.gif" width="100%" alt="Question blocks reveal Blastradius and linpine">
 </p>
 
 <p align="center">
